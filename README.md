@@ -256,3 +256,4 @@ Notable alternatives also include:
 
 You can also use module bundlers like [webpack](http://webpack.js.org) and [Browserify](http://browserify.org/) directly.<br>
 React documentation includes [a walkthrough](https://facebook.github.io/react/docs/package-management.html) on this topic.
+# react Thinkful Header exercise
